@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="main" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/scripts" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/scripts/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/scripts/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/scripts/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/scripts/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/scripts" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/scripts/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/scripts/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/scripts/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/scripts/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/scripts" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/scripts/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/scripts/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/scripts/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/scripts/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="main">
+         <Option output="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/scripts/main" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/scripts" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/include" />
+            <Add directory="/usr/lib/gcc/arm-none-eabi/4.9.3/include" />
+            <Add directory="/usr/lib/gcc/arm-none-eabi/4.9.3/include-fixed" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/scripts/Makefile&quot;  VERBOSE=1 main" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/scripts/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/scripts/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/scripts/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="main/fast">
+         <Option output="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/scripts/main" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/scripts" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/lib/gcc/arm-none-eabi/4.9.3/../../../arm-none-eabi/include" />
+            <Add directory="/usr/lib/gcc/arm-none-eabi/4.9.3/include" />
+            <Add directory="/usr/lib/gcc/arm-none-eabi/4.9.3/include-fixed" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/scripts/Makefile&quot;  VERBOSE=1 main/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/scripts/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/scripts/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/scripts/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/armc-cstartup.c">
+      </Unit>
+      <Unit filename="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/armc-cstubs.c">
+      </Unit>
+      <Unit filename="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/buttons.c">
+      </Unit>
+      <Unit filename="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/game.c">
+      </Unit>
+      <Unit filename="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/ghost_ai.c">
+      </Unit>
+      <Unit filename="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/main.c">
+      </Unit>
+      <Unit filename="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/pacman.c">
+      </Unit>
+      <Unit filename="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/print_number.c">
+      </Unit>
+      <Unit filename="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/print_string.c">
+      </Unit>
+      <Unit filename="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/render.c">
+      </Unit>
+      <Unit filename="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/rpi-mailbox-interface.c">
+      </Unit>
+      <Unit filename="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/rpi-mailbox.c">
+      </Unit>
+      <Unit filename="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/title_screen.c">
+      </Unit>
+      <Unit filename="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/util.c">
+      </Unit>
+      <Unit filename="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/armc-start.S">
+      </Unit>
+      <Unit filename="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/background.h">
+      </Unit>
+      <Unit filename="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/buttons.h">
+      </Unit>
+      <Unit filename="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/char_sprite.h">
+      </Unit>
+      <Unit filename="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/game.h">
+      </Unit>
+      <Unit filename="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/ghost_ai.h">
+      </Unit>
+      <Unit filename="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/ghost_sprite.h">
+      </Unit>
+      <Unit filename="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/pacman.h">
+      </Unit>
+      <Unit filename="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/print_number.h">
+      </Unit>
+      <Unit filename="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/print_string.h">
+      </Unit>
+      <Unit filename="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/render.h">
+      </Unit>
+      <Unit filename="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/rpi-base.h">
+      </Unit>
+      <Unit filename="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/rpi-mailbox-interface.h">
+      </Unit>
+      <Unit filename="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/rpi-mailbox.h">
+      </Unit>
+      <Unit filename="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/title_screen.h">
+      </Unit>
+      <Unit filename="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/util.h">
+      </Unit>
+      <Unit filename="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/home/suraj/Dropbox/Computing/Year1/term3/RBP/arm11_34/programs/Game/toolchain-arm-none-eabi-rpi.cmake">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>
